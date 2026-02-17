@@ -1,2 +1,2 @@
 # factory_image
-Image factory for laravel
+Image handling factory for laravel. Designed to handle image objects.
